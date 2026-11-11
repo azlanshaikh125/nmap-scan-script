@@ -1,0 +1,8 @@
+# Generated scan reports
+reports/*
+!reports/.gitkeep
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
